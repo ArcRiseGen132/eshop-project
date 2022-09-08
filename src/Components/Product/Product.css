@@ -26,6 +26,7 @@
 .product > button:hover {
   transition: transform 0.2s ease-in;
   transform: scale(1.3);
+  cursor: pointer;
 }
 
 .product > button {
