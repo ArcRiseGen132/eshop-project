@@ -21,7 +21,7 @@ const Checkout = () => {
             <CheckoutProduct
               id={item.id}
               title={item.title}
-              img={item.img}
+              image={item.image}
               price={item.price}
               rating={item.rating}
             ></CheckoutProduct>

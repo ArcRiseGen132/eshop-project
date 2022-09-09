@@ -1,7 +1,6 @@
 import React from "react"
 import "./Home.css"
 import Product from "../Product/Product"
-import Header from "../Header/Header"
 
 const Home = () => {
   return (
