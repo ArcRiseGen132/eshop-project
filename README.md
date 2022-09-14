@@ -1,6 +1,8 @@
 This project is originally from the 50 Days React Bootcamp course from Udemy
 https://www.udemy.com/course/build-real-world-application-projects-using-react
 
+However, as the material is from older versions of React and Firebase, adjustments were made to reflect on the
+newer changes from both such as using Route element instead of the older Routing methods of react-router-dom
 
 # Getting Started with Create React App
 
