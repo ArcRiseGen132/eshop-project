@@ -1,3 +1,7 @@
+This project is originally from the 50 Days React Bootcamp course from Udemy
+https://www.udemy.com/course/build-real-world-application-projects-using-react
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
